@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain and Web3.0 Enthusiast
 --------------------------------
 
-I've been focusing on Blockchain & Web3.0 field after switching my career from a full stack Web2.0 developer. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js and MERN stack.
+I've been focusing on Blockchain & Web3.0 field after switching my career from a full stack Web2.0 developer. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, MERN stack, Microservices, Docker, K8s and AWS.
 
 * 🌍  I'm based in San Diego, CA, United States.
 * ✉️  You can contact me at [danieldev0612@gmail.com](mailto:danieldev0612@gmail.com)
