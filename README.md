@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Morales
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Blockchain and Web3.0 Enthusiast
+Web and Blockchain Enthusiast
 --------------------------------
 
-I've been focusing on Blockchain & Web3.0 field after switching my career from a full stack Web2.0 developer. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, MERN stack, Microservices, Docker, K8s and AWS.
+I've been working on both Web2.0 and Web3.0 fields. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, MERN stack, Microservices, Docker, K8s and AWS.
 
-* 🌍  I'm based in San Diego, CA, United States.
-* ✉️  You can contact me at [danieldev0612@gmail.com](mailto:danieldev0612@gmail.com)
 * 🤝  I'm open to collaborating on Web2.0 & Web3.0 Projects.
 * ⚡  I have ambition to learn new things continuously.
 
